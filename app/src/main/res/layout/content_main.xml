@@ -15,7 +15,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Take Photo"
+        android:text="Capture Image"
         android:id="@+id/siliconButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
